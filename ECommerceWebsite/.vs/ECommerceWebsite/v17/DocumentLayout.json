@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CA9C6C-93B2-44C5-98AA-52D0D237A67A}|TestDbApp\\TestDbApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\testdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CA9C6C-93B2-44C5-98AA-52D0D237A67A}|TestDbApp\\TestDbApp.csproj|solutionrelative:testdbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\repositories\\userrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\estorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\estorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\product\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\ecommercewebsite\\estorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE0957-C031-451A-B9C8-A0FC2094CE48}|EStoreWebApp\\EStoreWebApp.csproj|solutionrelative:estorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepoManager.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Repositories\\UserRepoManager.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Repositories\\UserRepoManager.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Repositories\\UserRepoManager.cs",
+              "RelativeToolTip": "EStoreWebApp\\Repositories\\UserRepoManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:53:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\TestDbApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestDbApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\TestDbApp\\Program.cs",
+              "RelativeToolTip": "TestDbApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:23:59.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Models\\User.cs",
+              "RelativeToolTip": "EStoreWebApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:51:32.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "EStoreWebApp\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:46:40.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:40:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:05:03.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Insert.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Product\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Insert.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Product\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:04:40.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Services\\UserService.cs",
+              "RelativeToolTip": "EStoreWebApp\\Services\\UserService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:55:13.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EStoreWebApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:05:23.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EStoreWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\EStoreWebApp.csproj",
+              "RelativeDocumentMoniker": "EStoreWebApp\\EStoreWebApp.csproj",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\EStoreWebApp.csproj",
+              "RelativeToolTip": "EStoreWebApp\\EStoreWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T08:45:24.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EStoreWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T10:06:42.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Program.cs",
+              "RelativeToolTip": "EStoreWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:05:47.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EStoreWebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:50:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T00:45:20.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T00:48:03.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:32:15.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:23:02.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:05:26.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:03:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAIBJwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T00:57:13.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EStoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABQwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:43:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAIBJwDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T00:56:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ECommerceWebsite\\EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T00:53:20.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

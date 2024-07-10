@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\repositories\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\productrest\\productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67912F21-1755-4F31-86B9-4C62F708820F}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\productapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Repositories\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\ProductContext.cs",
+              "RelativeToolTip": "ProductApp\\Repositories\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:38:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "ProductApp\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:03:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA3wDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:08:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductApp\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:57:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Program.cs",
+              "RelativeToolTip": "ProductApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:15:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductApp\\Services\\ProductService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:03:42.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductApp\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:17:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApp\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwEUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:58:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductApp.csproj",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\ProductApp.csproj",
+              "RelativeDocumentMoniker": "ProductApp\\ProductApp.csproj",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\ProductRest\\ProductApp\\ProductApp.csproj",
+              "RelativeToolTip": "ProductApp\\ProductApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T20:15:39.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

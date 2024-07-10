@@ -1,0 +1,11 @@
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\bin\Release\net8.0\Catalog.deps.json
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\bin\Release\net8.0\Catalog.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\bin\Release\net8.0\Catalog.pdb
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.AssemblyInfo.cs
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\refint\Catalog.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\Catalog.pdb
+C:\Users\prade\OneDrive\Documents\MsDotNet\Ecommerce\Catalog\obj\Release\net8.0\ref\Catalog.dll

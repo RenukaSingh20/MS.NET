@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\ecommerceproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\ecommerceproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\endmodulepractice\\ecommerceproduct\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF0A6F5-B828-4A3F-90EC-4934E465901B}|EcommerceProduct\\EcommerceProduct.csproj|solutionrelative:ecommerceproduct\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Program.cs",
+              "RelativeToolTip": "EcommerceProduct\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:53:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceProduct\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:46:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Services\\ProductService.cs",
+              "RelativeToolTip": "EcommerceProduct\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:36:53.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Services\\IProductService.cs",
+              "RelativeToolTip": "EcommerceProduct\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:35:47.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceProduct\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:29:37.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceProduct\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:34:16.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceProduct\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\Entities\\Product.cs",
+              "RelativeToolTip": "EcommerceProduct\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:25:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceProduct.csproj",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\EcommerceProduct.csproj",
+              "RelativeDocumentMoniker": "EcommerceProduct\\EcommerceProduct.csproj",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\EndModulePractice\\EcommerceProduct\\EcommerceProduct.csproj",
+              "RelativeToolTip": "EcommerceProduct\\EcommerceProduct.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T13:22:59.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

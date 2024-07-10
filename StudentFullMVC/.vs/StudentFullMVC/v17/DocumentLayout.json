@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\repositories\\studentcollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\repositories\\studentcollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\studentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\studentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\studentfullmvc\\studentapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C23F41C-1286-4355-93C4-A601A4BEDF1B}|StudentApp\\StudentApp.csproj|solutionrelative:studentapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\appsettings.json",
+              "RelativeToolTip": "StudentApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T20:07:51.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:15:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentApp\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:59:24.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentApp\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:01:46.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentApp\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:16:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentApp\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:18:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Program.cs",
+              "RelativeToolTip": "StudentApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:14:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T20:02:32.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCollectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\StudentCollectionContext.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Repositories\\StudentCollectionContext.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Repositories\\StudentCollectionContext.cs",
+              "RelativeToolTip": "StudentApp\\Repositories\\StudentCollectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:51:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:15:56.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:36:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T19:43:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:15:48.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentApp",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\StudentApp.csproj",
+              "RelativeDocumentMoniker": "StudentApp\\StudentApp.csproj",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\StudentApp.csproj",
+              "RelativeToolTip": "StudentApp\\StudentApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T19:15:45.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:15:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:13:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\StudentFullMVC\\StudentApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:35:42.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

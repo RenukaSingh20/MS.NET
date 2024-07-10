@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C508016-7D6F-468F-8ECB-1CBE5F4BFD8E}|PaintBrush\\PaintBrush.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C508016-7D6F-468F-8ECB-1CBE5F4BFD8E}|PaintBrush\\PaintBrush.csproj|solutionrelative:paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C508016-7D6F-468F-8ECB-1CBE5F4BFD8E}|PaintBrush\\PaintBrush.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C508016-7D6F-468F-8ECB-1CBE5F4BFD8E}|PaintBrush\\PaintBrush.csproj|solutionrelative:paintbrush\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\bankingapp\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE730B6-3C60-4ED8-9F61-D180CCBC9D29}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659CB20B-863A-4FB6-817C-847DC3E8C8A5}|MemMgmntApp\\MemMgmntApp.csproj|c:\\users\\prade\\onedrive\\documents\\msdotnet\\dotnetsolution\\memmgmntapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659CB20B-863A-4FB6-817C-847DC3E8C8A5}|MemMgmntApp\\MemMgmntApp.csproj|solutionrelative:memmgmntapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\PaintBrush\\Form1.cs",
+              "RelativeDocumentMoniker": "PaintBrush\\Form1.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\PaintBrush\\Form1.cs",
+              "RelativeToolTip": "PaintBrush\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA6wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:00:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\PaintBrush\\Form1.cs",
+              "RelativeDocumentMoniker": "PaintBrush\\Form1.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\PaintBrush\\Form1.cs [Design]",
+              "RelativeToolTip": "PaintBrush\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:59:44.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\Account.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Account.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\Account.cs",
+              "RelativeToolTip": "BankingApp\\Account.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:17:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\EventHandler.cs",
+              "RelativeDocumentMoniker": "BankingApp\\EventHandler.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\EventHandler.cs",
+              "RelativeToolTip": "BankingApp\\EventHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:08:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T10:06:44.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\MemMgmntApp\\Product.cs",
+              "RelativeDocumentMoniker": "MemMgmntApp\\Product.cs",
+              "ToolTip": "C:\\Users\\prade\\OneDrive\\Documents\\MsDotNet\\DotnetSolution\\MemMgmntApp\\Product.cs",
+              "RelativeToolTip": "MemMgmntApp\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:06:22.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

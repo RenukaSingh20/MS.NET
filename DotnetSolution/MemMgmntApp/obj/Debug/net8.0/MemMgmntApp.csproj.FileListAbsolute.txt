@@ -1,0 +1,14 @@
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\bin\Debug\net8.0\MemMgmntApp.exe
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\bin\Debug\net8.0\MemMgmntApp.deps.json
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\bin\Debug\net8.0\MemMgmntApp.runtimeconfig.json
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\bin\Debug\net8.0\MemMgmntApp.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\bin\Debug\net8.0\MemMgmntApp.pdb
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.AssemblyInfoInputs.cache
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.AssemblyInfo.cs
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.csproj.CoreCompileInputs.cache
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\refint\MemMgmntApp.dll
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.pdb
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\MemMgmntApp.genruntimeconfig.cache
+C:\Users\prade\OneDrive\Documents\MsDotNet\DotnetSolution\MemMgmntApp\obj\Debug\net8.0\ref\MemMgmntApp.dll

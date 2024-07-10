@@ -1,0 +1,13 @@
+﻿@{
+    <h2>Student Details</h2>
+    <ul>
+    @{
+        foreach(Student student in Model){
+            <li>@student.std_id, @student.std_name, @student.std_email, @student.std_phone,
+            @student.std_Address,@student.std_admissiondate.ToString("dd-MM-yyyy"),@student.std_fees,@student.std_status</li>
+            <p> ----------------------</p>
+        }
+    }
+    </ul>
+        }
+
